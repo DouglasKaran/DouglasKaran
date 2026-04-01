@@ -77,7 +77,7 @@ Atualmente, estou aprofundando meus estudos em **Administração de Sistemas**, 
 ## 🎓 Formação Acadêmica
 
 * 🎓 **Bacharelado em Física** — UECE *(2016 – 2022)*
-* 💻 **Técnico em Informática para Internet** — IFCE *(2025 – 2026)*
+* 💻 **Técnico em Informática para Internet** — IFCE *(2025 – 2027)*
 
 ---
 
@@ -85,9 +85,12 @@ Atualmente, estou aprofundando meus estudos em **Administração de Sistemas**, 
 
 * Introdução à Análise de Dados — **Microsoft Power BI**
 * Introdução às Máquinas Virtuais do **Microsoft Azure**
-* **SharePoint**
-* Atendimento ao Público
-* Curso de Agente de Operações de Pátio
+* Conceitos básicos da rede de computadores no **Microsoft Azure**
+* Conceitos básicos da segurança de rede no **Microsoft Azure**
+* Conceitos Básicos do **Microsoft Azure**
+* Fundamentos da Sustentabilidade em Tecnologia - **Escola do Trabalhador/Microsoft**
+* Sharepoint - **Fundação Bradesco**
+* Atendimento ao Público - **Fundação Bradesco**
 
 ---
 
