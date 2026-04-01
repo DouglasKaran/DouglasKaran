@@ -91,6 +91,8 @@ Atualmente, estou aprofundando meus estudos em **Administração de Sistemas**, 
 * Fundamentos da Sustentabilidade em Tecnologia - **Escola do Trabalhador/Microsoft**
 * Sharepoint - **Fundação Bradesco**
 * Atendimento ao Público - **Fundação Bradesco**
+* SQL Essencial - **Udemy**
+* Linux Essentials -**LINUXtips**
 
 ---
 
