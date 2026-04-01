@@ -18,7 +18,7 @@ Atualmente, estou aprofundando meus estudos em **Administração de Sistemas**, 
 * ⚙️ **Automação**: Power Automate, n8n, Typebot
 * 🖥️ **Sistemas**: GNU/Linux, Servidores Linux, Máquinas Virtuais
 * 📊 **Dados**: Power BI (análise e visualização)
-* 🌐 **Plataformas**: SharePoint, Z-Pro Multi Atendimento
+* 🌐 **Plataformas**: SharePoint, Z-Pro Multi Atendimento, CRM Perfex
 * 🤖 **RPA**: Automação Robótica de Processos
 * 🧑‍💻 **Suporte Técnico** e Atendimento ao Usuário
 
