@@ -76,8 +76,8 @@ Atualmente, estou aprofundando meus estudos em **Administração de Sistemas**, 
 
 ## 🎓 Formação Acadêmica
 
-* 🎓 **Bacharelado em Física** — UECE *(2016 – 2022)*
-* 💻 **Técnico em Informática para Internet** — IFCE *(2025 – 2027)*
+* 🎓 **Bacharelado em Física** — Universidade Estadual do Ceará *(2016 – 2022)*
+* 💻 **Técnico em Informática para Internet** — Instituto Federal do Ceará *(2025 – 2027)*
 
 ---
 
