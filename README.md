@@ -60,7 +60,7 @@ Atualmente, estou aprofundando meus estudos em **Administração de Sistemas**, 
 
 📅 **Mar/2019 – Abr/2021**
 
-* Apoio em experimentos didáticos
+* Apoio em experimentos didáticos com Arduíno
 * Auxílio a alunos e professores em atividades laboratoriais
 
 ---
