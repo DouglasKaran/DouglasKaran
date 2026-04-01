@@ -104,7 +104,7 @@ Atualmente, estou aprofundando meus estudos em **Administração de Sistemas**, 
 
 ## 🏆 Destaques
 
-* Monitor do Laboratório de Física 2
+* Monitor do Laboratório de Física
 * Forte experiência com atendimento ao cliente e suporte técnico
 
 ---
