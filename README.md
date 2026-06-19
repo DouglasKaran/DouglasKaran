@@ -43,6 +43,7 @@ Atualmente, estou aprofundando meus estudos em **Administração de Sistemas**, 
 * **Linux Essentials**
 * **CSS**
 * **HTML**
+* **Python**
 
 ---
 
