@@ -24,56 +24,6 @@ Atualmente, estou aprofundando meus estudos em **Administração de Sistemas**, 
 
 ---
 
-## 💼 Experiência Profissional
-
-### 🏢 Tecno Center — *Suporte Técnico*
-
-📅 **Nov/2023 – Atual**
-📍 Fortaleza, CE
-
-* Suporte a aplicações baseadas na **Microsoft Power Platform**
-* Atendimento e resolução de problemas no **Z-Pro Multi Atendimento**
-* Análise de falhas, orientação a usuários e melhoria contínua de processos
-
----
-
-### 🏥 Hapvida — *Agente de Call Center*
-
-📅 **Abr/2023 – Nov/2023**
-
-* Atendimento ao cliente
-* Marcação de consultas e exames
-* Comunicação clara e foco em resolução rápida
-
----
-
-### 📞 Contax S.A. — *Operador de Telemarketing Ativo e Receptivo*
-
-📅 **Abr/2022 – Jul/2022**
-
-* Serviço de Atendimento ao Consumidor (SAC)
-* Suporte e orientação ao cliente
-
----
-
-### 🧪 Universidade Estadual do Ceará — *Monitor de Laboratório de Física*
-
-📅 **Mar/2019 – Abr/2021**
-
-* Apoio em experimentos didáticos com Arduíno
-* Auxílio a alunos e professores em atividades laboratoriais
-
----
-
-### ✈️ Aeroclube do Ceará — *Auxiliar Financeiro e de Operações*
-
-📅 **Fev/2016 – Jan/2017**
-
-* Atendimento ao cliente e gestão financeira
-* Operações de solo, documentação e suporte operacional
-
----
-
 ## 🎓 Formação Acadêmica
 
 * 🎓 **Bacharelado em Física** — Universidade Estadual do Ceará *(2016 – 2022)*
@@ -88,24 +38,17 @@ Atualmente, estou aprofundando meus estudos em **Administração de Sistemas**, 
 * Conceitos básicos da rede de computadores no **Microsoft Azure**
 * Conceitos básicos da segurança de rede no **Microsoft Azure**
 * Conceitos Básicos do **Microsoft Azure**
-* Fundamentos da Sustentabilidade em Tecnologia - **Escola do Trabalhador/Microsoft**
-* Sharepoint - **Fundação Bradesco**
-* Atendimento ao Público - **Fundação Bradesco**
-* SQL Essencial - **Udemy**
-* Linux Essentials -**LINUXtips**
+* Fundamentos da Sustentabilidade em Tecnologia
+* **SQL Essencial**
+* **Linux Essentials**
+* **CSS**
+* **HTML**
 
 ---
 
 ## 🌍 Idiomas
 
 * 🇬🇧 **Inglês** — Intermediário (Limited Working)
-
----
-
-## 🏆 Destaques
-
-* Monitor do Laboratório de Física
-* Forte experiência com atendimento ao cliente e suporte técnico
 
 ---
 
